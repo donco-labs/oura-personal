@@ -23,6 +23,7 @@ All data accessed is used solely for personal analytics. Nothing is sold, shared
 
 - [Privacy Policy](./privacy.html)
 - [Terms of Service](./terms.html)
+- [Support](./support.html)
 
 ## Status
 
